@@ -1,5 +1,6 @@
 import java.util.Scanner;
 // This is code to check if number is palindrome or not
+// Let the user enter the number and check for palindrome
 public class Palindrome_Number {
     public static boolean Pal(int a){
         int b=a;
