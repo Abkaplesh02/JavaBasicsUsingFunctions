@@ -1,3 +1,4 @@
+// Check GCD of 2 number 
 import java.util.Scanner;
 
 public class GCD {
