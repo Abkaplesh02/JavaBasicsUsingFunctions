@@ -1,4 +1,3 @@
-// Digits reverse java
 import java.util.Scanner;
 
 public class Digits_reverse {

@@ -1,5 +1,3 @@
-// Check GCD of 2 number 
-// Take input from user
 import java.util.Scanner;
 
 public class GCD {

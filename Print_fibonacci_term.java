@@ -1,4 +1,3 @@
-//Print fibonacci term 
 import java.util.Scanner;
 
 public class Print_fibonacci_term {
